@@ -1,12 +1,13 @@
-{"data"：{
-    "items": {
-      "edges": {[
-        "node": {
-          "id": "3293"
-          "title": "mytest title"
-          "publicationId": "30"
+{
+    "data"：{
+        "items": {
+            "edges": {[
+                "node": {
+                    "id": "3293"
+                    "title": "mytest title"
+                    "publicationId": "30"
+                }
+            ]}
         }
-      ]}
     }
-  }
 }
