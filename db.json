@@ -1,13 +1,13 @@
 {
     "data": {
         "items": {
-            "edges": {[
+            "edges": [{
                 "node": {
                     "id": "3293",
                     "title": "mytest title",
                     "publicationId": "30"
                 }
-            ]}
+            }]
         }
     }
 }
